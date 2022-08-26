@@ -4,6 +4,7 @@
 # pivot closest to the side with only a neele is used
 # "upright time" referes to when the pendulum is place so the
 # pivot closest to where the fixed main mass is
+# length L of pendulum is measured to be 1.196m +- 0.005m
 # fine adjustment position (cm), upright time (s), upright uncertainty, inverted time (s), inverted uncertainty
 0, 15.960359, 0.006, 15.989311, 0.006
 1, 15.958178, 0.006, 15.988190, 0.006
