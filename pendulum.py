@@ -2,11 +2,11 @@
 """
 Created on Fri Mar 25 00:18:12 2022
 
-Simple program taking in data collected at McLennan Laboratories
+Simple program taking in data collected at McLennan Physical Laboratories
 of a Kater pendulum and creating linear models to graph. Program
 also prints out the calculated values for each model to create two line
 equations that can be used to find the accelaration due to gravity at 
-Mclennan Labs.
+the lab location.
 
 @author: linh
 """
@@ -26,7 +26,7 @@ def linear_model(x, m, b):
  for upright_time and invert_time respectively.
 '''
 adj_pos, upright_time, u_uncertainty, invert_time, \
-    i_uncertainty = np.loadtxt("real_data.txt", skiprows = 7, 
+    i_uncertainty = np.loadtxt("real_data.txt", skiprows = 8, 
                                           dtype = "float", delimiter=',', 
                                           unpack = True)
 
