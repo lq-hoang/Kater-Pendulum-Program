@@ -1,0 +1,23 @@
+# data collected for time it takes for kater pendulum to make
+# 16 full periods
+# "inverted time" refers to when the pendulum is placed so the
+# pivot closest to the side with only a neele is used
+# "upright time" referes to when the pendulum is place so the
+# pivot closest to where the fixed main mass is
+# fine adjustment position (cm), upright time (s), upright uncertainty, inverted time (s), inverted uncertainty
+0, 15.960359, 0.006, 15.989311, 0.006
+1, 15.958178, 0.006, 15.988190, 0.006
+2, 15.955089, 0.006, 15.988293, 0.006
+3, 15.952932, 0.006, 15.985717, 0.006
+4, 15.951467, 0.006, 15.986846, 0.006
+5, 15.949980, 0.006, 15.982367, 0.006
+6, 15.946660, 0.006, 15.985486, 0.006
+7, 15.948425, 0.006, 15.993039, 0.006
+8, 15.942971, 0.006, 15.980732, 0.006
+9, 15.942114, 0.006, 15.982703, 0.006
+10, 15.939619, 0.006, 15.982801, 0.006
+11, 15.936136, 0.006, 15.981806, 0.006
+12, 15.936729, 0.006, 15.981826, 0.006
+13, 15.923002, 0.006, 15.983101, 0.006
+14, 15.913473, 0.006, 15.982236, 0.006
+15, 15.913883, 0.006, 15.982626, 0.006
